@@ -1,11 +1,9 @@
 # Work With Coffee
-> We are a top curated list by developers of the betters places to work remotely around the world
+> We are a top curated list by remote workers of the best places to do your work and grab a good coffee
 
-[![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
-Work With Coffee is a centered coffee wifi adicted list.
+Work With Coffee is a centered coffee shop list with good wifi and beverages.
 
 ![](header.png)
 
@@ -19,9 +17,6 @@ Work With Coffee is a centered coffee wifi adicted list.
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/clucasalcantara/workwith.coffee/wiki
