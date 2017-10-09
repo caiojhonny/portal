@@ -10,7 +10,7 @@ class StoresList extends Component {
       <div className='storesList--wrapper'>
         {
           allStores && allStores.map(store => (
-            <span onMouseOver className='store' key={store.id}>{store.name}</span>
+            <span className='store' key={store.id}>{store.name}</span>
           ))
         }
       </div>
