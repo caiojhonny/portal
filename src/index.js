@@ -11,7 +11,7 @@ import App from './app'
 import register from './services'
 
 const networkInterface = createNetworkInterface({
-  uri: 'https://api.graph.cool/relay/v1/cj8k4q2x604fc01368ll12q8m'
+  uri: 'https://api.graph.cool/simple/v1/cj8k4q2x604fc01368ll12q8m'
 })
 
 const client = new ApolloClient({
