@@ -1,16 +1,30 @@
-
 import React from 'react'
 import { render } from 'react-dom'
 import { AppContainer } from 'react-hot-loader'
+import {
+  ApolloProvider,
+  createNetworkInterface,
+  ApolloClient
+} from 'react-apollo'
 
 import App from './app'
 import register from './services'
 
+const networkInterface = createNetworkInterface({
+  uri: 'https://api.graph.cool/relay/v1/cj8k4q2x604fc01368ll12q8m'
+})
+
+const client = new ApolloClient({
+  networkInterface
+})
+
 const renderApp = (NextApp) => {
   render(
-    <AppContainer>
-      <NextApp />
-    </AppContainer>,
+    <ApolloProvider client={client}>
+      <AppContainer>
+        <NextApp />
+      </AppContainer>
+    </ApolloProvider>,
     document.querySelector('[data-js="app"]')
   )
 }
