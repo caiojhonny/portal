@@ -1,0 +1,28 @@
+.landing--wrapper {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.landing--block {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  align-items: center;
+  margin-top: 50%;
+}
+
+.landing--logo {
+  width: 100px;
+  height: 75px;
+}
+
+.landing--title {
+  display: block;
+}
+
+.landing--subtitle {
+  display: block;
+  font-size: 0.7rem;
+}

@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should Landing match to snapshot 1`] = `
+<div
+  className="landing--wrapper"
+>
+  <div
+    className="landing--block"
+  >
+    <img
+      className="landing--logo"
+      src={Object {}}
+    />
+    <span
+      className="landing--title"
+    >
+      Work with Coffee
+    </span>
+    <span
+      className="landing--subtitle"
+    >
+      A top curated list of work places for you.
+    </span>
+  </div>
+</div>
+`;
