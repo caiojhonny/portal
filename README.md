@@ -20,4 +20,6 @@ Work With Coffee is a centered coffee shop list with good wifi and beverages.
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/clucasalcantara/workwith.coffee/wiki
-yarn add react-apollo
+
+
+License [MIT](https://github.com/fdaciuk/licenses/blob/master/MIT-LICENSE.md) Boilerplate base thanks &copy; Fernando Daciuk
