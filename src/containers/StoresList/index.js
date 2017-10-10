@@ -23,6 +23,10 @@ export const ALL_STORES_QUERY = gql`
     allStores {
       id
       name
+      address
+      facebook
+      instagram
+      website
     }
   }
 `
