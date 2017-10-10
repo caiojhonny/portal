@@ -7,6 +7,9 @@ Work With Coffee is a centered coffee shop list with good wifi and beverages.
 
 ![](header.png)
 
+## Stack
+This project is running with React Fiber + React Apollo + Apollo GraphQL and has a temp backend for the graphQL suit running on [GraphCool](https://www.graph.cool/)
+
 ## Contributing
 
 1. Fork it (<https://github.com/clucasalcantara/workwith.coffee/fork>)
