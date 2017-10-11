@@ -13,10 +13,11 @@
   color: #FFF;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   opacity: .5;
-  transition: opacity ease-in 0.25s;
+  transition: opacity ease-in-out 0.25s;
+  transition: font-size ease-in-out 0.15s;
 }
 
 .store:hover {
-  font-size: .75rem;
+  font-size: .65rem;
   opacity: 1;
 }
