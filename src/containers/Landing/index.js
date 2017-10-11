@@ -1,11 +1,16 @@
 import React, { PureComponent } from 'react'
 
+import Card from '../../components/Cards'
 import StoresList from '../StoresList'
 
 import './style.css'
 
 class Landing extends PureComponent {
+  state = {
+    width: typeof window !== 'undefined' ? window.innerWidth : null
+  }
   render () {
+    console.log(this.state)
     return (
       <div className='landing--wrapper'>
         <div className='landing--block'>

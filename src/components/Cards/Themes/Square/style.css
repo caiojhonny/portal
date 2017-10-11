@@ -1,0 +1,9 @@
+.card--wrapper {
+  display: flex;
+  flex-direction:column;
+  padding: 2em;
+  margin: .2em;
+  align-items: center;
+  background-color: #FFF;
+  color: #1B53ED;
+}

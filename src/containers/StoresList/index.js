@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import { graphql, gql } from 'react-apollo'
 
+import Card from '../../components/Cards'
+
 import './style.css'
 
 class StoresList extends Component {
@@ -10,7 +12,16 @@ class StoresList extends Component {
       <div className='storesList--wrapper'>
         {
           allStores && allStores.map(store => (
-            <span className='store' key={store.id}>{store.name}</span>
+            <Card
+              key={store.id}
+              data={
+                {
+                  title: store.name,
+                  subtitle: store.instagram,
+                  cardTheme: 'Square'
+                }
+              }
+            />
           ))
         }
       </div>
