@@ -9,7 +9,6 @@
   flex-direction: column;
   align-self: center;
   align-items: center;
-  margin-top: 50%;
 }
 
 .landing--logo {
@@ -28,6 +27,5 @@
 
 .graphql--section {
   text-align: center;
-  margin-top: 50%;
 }
 
