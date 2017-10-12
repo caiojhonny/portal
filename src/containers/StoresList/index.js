@@ -27,7 +27,11 @@ export const ALL_STORES_QUERY = gql`
       facebook
       instagram
       website
-      facilities
+      facilities {
+        internet
+        speed
+        powerplugs
+      }
     }
   }
 `
