@@ -6,7 +6,7 @@ import * as themes from './Themes/'
 class BaseCard extends PureComponent {
   static propTypes = {
     data: PropTypes.object.isRequired,
-    cardTheme: PropTypes.string.isRequired
+    theme: PropTypes.string.isRequired
   }
 
   static defaultProps = {
@@ -14,8 +14,8 @@ class BaseCard extends PureComponent {
   }
 
   render() {
-    const { cardTheme, data } = this.props
-    const CardWithTheme = themes[`${cardTheme}`]
+    const { theme, data } = this.props
+    const CardWithTheme = themes[`${theme}`]
 
 
     return <CardWithTheme.default {...data} />
