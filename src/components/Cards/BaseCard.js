@@ -10,7 +10,7 @@ class BaseCard extends PureComponent {
   }
 
   static defaultProps = {
-    cardTheme: 'Square'
+    theme: 'Square'
   }
 
   render() {
