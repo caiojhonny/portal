@@ -1,0 +1,1 @@
+export default ErrorBox = () => (<h2>Deu xabu</h2>)
