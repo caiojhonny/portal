@@ -10,11 +10,12 @@ Work With Coffee is a centered coffee shop list with good wifi and beverages.
 :construction_worker: Work in progress
 
 ### Development
-1 - `yarn` (both frontend and api)
-2 - `cd frontend && yarn dev`
+1 - `yarn`
+2 - `yarn start:dev`
 
 ## Stack
 This project is running with:
+
 - React
 - Jest
 - Enzyme
