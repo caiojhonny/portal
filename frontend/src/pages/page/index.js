@@ -1,15 +1,15 @@
 import React, { Component, Fragment } from "react";
 import { Link } from "react-router-dom";
 
-class Home extends Component {
+class Page extends Component {
   render() {
     return (
       <Fragment>
-        <h2>Home page</h2>
-        <Link to="/page2">Page 2</Link>
+        <h2>page</h2>
+        <Link to="/">Home</Link>
       </Fragment>
     );
   }
 }
 
-export default Home;
+export default Page;
