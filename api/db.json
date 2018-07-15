@@ -1,0 +1,244 @@
+{
+  "navigation": [
+    {
+      "label": "Sobre nós",
+      "action": "about"
+    },
+    {
+      "label": "Sugira cafeterias",
+      "action": "suggest"
+    }
+  ],
+  "workplaces": [
+    {
+      "id": 1,
+      "name": "Seven Wonders Café",
+      "rating": 4.3,
+      "image": "https://www.thedenverear.com/wp-content/uploads/2016/08/11951396_399971496862586_4802582575775226125_n.jpg",
+      "address_slug": "Shopping Bela Vista",
+      "address": {
+        "street": "AV Acm, N 666, Salvador - BA",
+        "coordinates": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "working_hours": [
+        {
+          "from": "10:00am",
+          "to": "11:00pm"
+        }
+      ],
+      "wifi_condition": "good",
+      "price_range": "3",
+      "place_type": "quiet"
+    },
+    {
+      "id": 2,
+      "name": "Doutor Café - Cafeteria e Restaurante",
+      "rating": 4,
+      "image": "https://cdn.vox-cdn.com/thumbor/SVEQv9ZyogzkPLs4PwTCh1NBCHg=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/59488337/20786021_1964885550462647_3189575152413374824_o.0.jpg",
+      "address_slug": null,
+      "address": {
+        "street": "R. Altimo Serbeto de Barros, 173",
+        "coordinates": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "working_hours": [
+        {
+          "from": "9:00am",
+          "to": "8:00pm"
+        }
+      ],
+      "wifi_condition": "good",
+      "price_range": "3",
+      "place_type": "quiet"
+    },
+    {
+      "id": 3,
+      "name": "Lucca Cafés Especiais",
+      "rating": 4.3,
+      "image": "https://cdn.vox-cdn.com/thumbor/SVEQv9ZyogzkPLs4PwTCh1NBCHg=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/59488337/20786021_1964885550462647_3189575152413374824_o.0.jpg",
+      "address_slug": "Salvador Shopping",
+      "address": {
+        "street": "Av Tancredo Neves, 2915, Caminhos das Árvores, Salvador - BA",
+        "coordinates": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "working_hours": [
+        {
+          "from": "19:00am",
+          "to": "11:00pm"
+        }
+      ],
+      "wifi_condition": "good",
+      "price_range": "3",
+      "place_type": "quiet"
+    },
+    {
+      "id": 4,
+      "name": "Café Feito a Grão",
+      "rating": 4.8,
+      "image": "https://coffeecentral.s3-eu-west-1.amazonaws.com/2018/01/black-dog-coffee-kansas-city-social.jpg",
+      "address_slug": "Shopping da Bahia",
+      "address": {
+        "street": "Av Acm, N 666, Salvador - BA",
+        "coordinates": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "working_hours": [
+        {
+          "from": "10:00am",
+          "to": "11:00pm"
+        }
+      ],
+      "wifi_condition": "good",
+      "price_range": "3",
+      "place_type": "quiet"
+    },
+    {
+      "id": 5,
+      "name": "Seven Wonders Café",
+      "rating": 4.3,
+      "image": "https://cdn.vox-cdn.com/thumbor/SVEQv9ZyogzkPLs4PwTCh1NBCHg=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/59488337/20786021_1964885550462647_3189575152413374824_o.0.jpg",
+      "address_slug": "Shopping Bela Vista",
+      "address": {
+        "street": "AV Acm, N 666, Salvador - BA",
+        "coordinates": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "working_hours": [
+        {
+          "from": "9:00am",
+          "to": "7:00pm"
+        }
+      ],
+      "wifi_condition": "good",
+      "price_range": "3",
+      "place_type": "quiet"
+    },
+    {
+      "id": 6,
+      "name": "Seven Wonders Café",
+      "rating": 4.3,
+      "image": "https://cdn.vox-cdn.com/thumbor/SVEQv9ZyogzkPLs4PwTCh1NBCHg=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/59488337/20786021_1964885550462647_3189575152413374824_o.0.jpg",
+      "address_slug": "Shopping Bela Vista",
+      "address": {
+        "street": "AV Acm, N 666, Salvador - BA",
+        "coordinates": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "working_hours": [
+        {
+          "from": "11:00am",
+          "to": "12:00pm"
+        }
+      ],
+      "wifi_condition": "good",
+      "price_range": "3",
+      "place_type": "quiet"
+    },
+    {
+      "id": 7,
+      "name": "Seven Wonders Café",
+      "rating": 4.3,
+      "image": "http://www.coffeebeancompany.co.uk/app/uploads/2017/04/Coffee-Shop-1024x765.jpg",
+      "address_slug": "Shopping Bela Vista",
+      "address": {
+        "street": "AV Acm, N 666, Salvador - BA",
+        "coordinates": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "working_hours": [
+        {
+          "from": "11:00am",
+          "to": "12:00pm"
+        }
+      ],
+      "wifi_condition": "good",
+      "price_range": "3",
+      "place_type": "quiet"
+    },
+    {
+      "id": 8,
+      "name": "Seven Wonders Café",
+      "rating": 4.3,
+      "image": "https://cdn.vox-cdn.com/thumbor/SVEQv9ZyogzkPLs4PwTCh1NBCHg=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/59488337/20786021_1964885550462647_3189575152413374824_o.0.jpg",
+      "address_slug": "Shopping Bela Vista",
+      "address": {
+        "street": "AV Acm, N 666, Salvador - BA",
+        "coordinates": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "working_hours": [
+        {
+          "from": "11:00am",
+          "to": "12:00pm"
+        }
+      ],
+      "wifi_condition": "good",
+      "price_range": "3",
+      "place_type": "quiet"
+    },
+    {
+      "id": 9,
+      "name": "Seven Wonders Café",
+      "rating": 4.3,
+      "image": "https://images1.dallasobserver.com/imager/u/original/9308241/zenzero_courtesy_cafe.jpg",
+      "address_slug": "Shopping Bela Vista",
+      "address": {
+        "street": "AV Acm, N 666, Salvador - BA",
+        "coordinates": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "working_hours": [
+        {
+          "from": "11:00am",
+          "to": "12:00pm"
+        }
+      ],
+      "wifi_condition": "good",
+      "price_range": "3",
+      "place_type": "quiet"
+    },
+    {
+      "id": 10,
+      "name": "Seven Wonders Café",
+      "rating": 4.3,
+      "image": "https://cdn.vox-cdn.com/thumbor/SVEQv9ZyogzkPLs4PwTCh1NBCHg=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/59488337/20786021_1964885550462647_3189575152413374824_o.0.jpg",
+      "address_slug": "Shopping Bela Vista",
+      "address": {
+        "street": "AV Acm, N 666, Salvador - BA",
+        "coordinates": {
+          "lat": 0,
+          "lng": 0
+        }
+      },
+      "working_hours": [
+        {
+          "from": "11:00am",
+          "to": "12:00pm"
+        }
+      ],
+      "wifi_condition": "good",
+      "price_range": "3",
+      "place_type": "quiet"
+    }
+  ]
+}

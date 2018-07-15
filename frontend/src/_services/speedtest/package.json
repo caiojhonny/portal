@@ -1,0 +1,11 @@
+{
+  "name": "speedtest",
+  "version": "1.0.0",
+  "description": "library to test user connection and generate badges and results",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Caio Alcantara",
+  "license": "MIT"
+}
