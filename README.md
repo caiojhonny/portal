@@ -10,8 +10,10 @@ Work With Coffee is a centered coffee shop list with good wifi and beverages.
 :construction_worker: Work in progress
 
 ### Development
-1 - `yarn`
-2 - `cd frontend && yarn start:dev`
+```
+cd frontend
+yarn && yarn start:dev
+```
 
 ## Stack
 This project is running with:
